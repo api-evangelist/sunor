@@ -1,0 +1,32 @@
+aid: sunor
+name: Sunor
+description: "AI music generation API via Suno, with pay-as-you-go credits"
+url: https://docs.sunor.cc
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Music"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Music
+  - Public APIs
+apis:
+  - name: Sunor
+    description: "AI music generation API via Suno, with pay-as-you-go credits"
+    humanURL: https://docs.sunor.cc
+    baseURL: https://docs.sunor.cc
+    tags:
+      - Music
+    properties:
+      - type: Documentation
+        url: https://docs.sunor.cc
+common:
+  - type: Website
+    url: https://docs.sunor.cc
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
