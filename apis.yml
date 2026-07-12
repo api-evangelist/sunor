@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.sunor.cc
 common:
+  - type: DomainSecurity
+    url: security/sunor-domain-security.yml
   - type: Website
     url: https://docs.sunor.cc
   - type: PublicAPIsListing
