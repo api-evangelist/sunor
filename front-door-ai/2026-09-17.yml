@@ -1,0 +1,26 @@
+# Front Door AI Index — sunor — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: sunor
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: docs.sunor.cc
+  final_host: docs.sunor.cc
+  ownership: own
+  owner: sunor
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 12.22
+  words: 409
+  tiers:
+    agentic: 1
+    core: 4
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 4
+    prompts: 1
