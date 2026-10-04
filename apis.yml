@@ -39,7 +39,6 @@ apis:
   - name: Sunor
     description: "AI music generation API via Suno, with pay-as-you-go credits"
     humanURL: https://docs.sunor.cc
-    baseURL: https://docs.sunor.cc
     tags:
       - Music
     properties:
